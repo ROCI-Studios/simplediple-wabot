@@ -15,29 +15,35 @@ Simple WhatsApp Bot
 
 **Windows and VPS:**
 
-**1. Download And Install Baileys [`Click Here`](https://github.com/adiwajshing/Baileys)**
-**2. Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)**
-**3. Download And Install @vitalets/google-translate-api [`Click Here`](https://ffmpeg.org/download.html)**
-**4. Download And Install axios [`Click Here`](https://imagemagick.org/script/download.php)**
-**4. Download And Install chalk [`Click Here`](https://imagemagick.org/script/download.php)**
-**4. Download And Install cheerio [`Click Here`](https://imagemagick.org/script/download.php)**
-**4. Download And Install figlet [`Click Here`](https://imagemagick.org/script/download.php)**
-**4. Download And Install fluent-ffmpeg [`Click Here`](https://imagemagick.org/script/download.php)**
-**4. Download And Install jsdom [`Click Here`](https://imagemagick.org/script/download.php)**
-**4. Download And Install moment-timezone [`Click Here`](https://imagemagick.org/script/download.php)**
-**4. Download And Install node-fetch [`Click Here`](https://imagemagick.org/script/download.php)**
-**4. Download And Install figlet [`Click Here`](https://imagemagick.org/script/download.php)**
-**4. Download And Install fluent-ffmpeg [`Click Here`](https://imagemagick.org/script/download.php)**
-    "": "^1.0.0-rc.9",
-    "": "^1.5.0",
-    "": "^2.1.2",
-    "": "^16.5.3",
-    "": "^0.5.33",
-    "": "^2.6.1",
-    "parse-ms": "^2.1.0",
-    "qrcode": "^1.4.4",
-    "request": "^2.88.2",
-    "yt-search": "^2.8.0"
+* 1. Download And Install Baileys [`Click Here`](https://github.com/adiwajshing/Baileys)
+
+* 2. Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+
+* 3. Download And Install @vitalets/google-translate-api [`Click Here`](https://github.com/vitalets/google-translate-api)
+
+* 4. Download And Install axios [`Click Here`](https://imagemagick.org/script/download.php)
+
+* 5. Download And Install chalk [`Click Here`](https://imagemagick.org/script/download.php)
+
+* 6. Download And Install cheerio [`Click Here`](https://imagemagick.org/script/download.php)
+
+* 7. Download And Install figlet [`Click Here`](https://imagemagick.org/script/download.php)
+
+* 8. Download And Install fluent-ffmpeg [`Click Here`](https://imagemagick.org/script/download.php)
+
+* 9. Download And Install jsdom [`Click Here`](https://imagemagick.org/script/download.php)
+
+* 10. Download And Install moment-timezone [`Click Here`](https://imagemagick.org/script/download.php)
+
+* 11. Download And Install node-fetch [`Click Here`](https://imagemagick.org/script/download.php)
+
+* 12. Download And Install parse-ms [`Click Here`](https://imagemagick.org/script/download.php)
+
+* 13. Download And Install qrcode [`Click Here`](https://imagemagick.org/script/download.php)
+
+* 14. Download And Install request [`Click Here`](https://imagemagick.org/script/download.php)
+
+* 15. Download And Install yt-search [`Click Here`](https://imagemagick.org/script/download.php)
 
 or
 
