@@ -11,20 +11,10 @@ Simple WhatsApp Bot
 
 [whatsappBot - Bot code from JastinXyz](https://github.com/JastinXyz/whatsappBot)
 
+# How to install?
 
-## FOR TERMUX/UBUNTU/SSH USER
+**Windows**
 
-```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-apt install imagemagick -y
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
-npm install
-npm update
-```
 
 ## INSTALL ON TERMUX WITH UBUNTU
 
