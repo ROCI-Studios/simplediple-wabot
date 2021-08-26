@@ -2,7 +2,8 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+[![Our Website]](https://rocistudios.xyz)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ThisIsHai/simplediple-wabot/)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
