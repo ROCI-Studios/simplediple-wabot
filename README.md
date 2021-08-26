@@ -15,35 +15,35 @@ Simple WhatsApp Bot
 
 **Windows and VPS:**
 
-* 1. Download And Install Baileys [`Click Here`](https://github.com/adiwajshing/Baileys)
+* Download And Install Baileys [`Click Here`](https://github.com/adiwajshing/Baileys)
 
-* 2. Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
 
-* 3. Download And Install @vitalets/google-translate-api [`Click Here`](https://github.com/vitalets/google-translate-api)
+* Download And Install @vitalets/google-translate-api [`Click Here`](https://github.com/vitalets/google-translate-api)
 
-* 4. Download And Install axios [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install axios [`Click Here`](https://imagemagick.org/script/download.php)
 
-* 5. Download And Install chalk [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install chalk [`Click Here`](https://imagemagick.org/script/download.php)
 
-* 6. Download And Install cheerio [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install cheerio [`Click Here`](https://imagemagick.org/script/download.php)
 
-* 7. Download And Install figlet [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install figlet [`Click Here`](https://imagemagick.org/script/download.php)
 
-* 8. Download And Install fluent-ffmpeg [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install fluent-ffmpeg [`Click Here`](https://imagemagick.org/script/download.php)
 
-* 9. Download And Install jsdom [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install jsdom [`Click Here`](https://imagemagick.org/script/download.php)
 
-* 10. Download And Install moment-timezone [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install moment-timezone [`Click Here`](https://imagemagick.org/script/download.php)
 
-* 11. Download And Install node-fetch [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install node-fetch [`Click Here`](https://imagemagick.org/script/download.php)
 
-* 12. Download And Install parse-ms [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install parse-ms [`Click Here`](https://imagemagick.org/script/download.php)
 
-* 13. Download And Install qrcode [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install qrcode [`Click Here`](https://imagemagick.org/script/download.php)
 
-* 14. Download And Install request [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install request [`Click Here`](https://imagemagick.org/script/download.php)
 
-* 15. Download And Install yt-search [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install yt-search [`Click Here`](https://imagemagick.org/script/download.php)
 
 or
 
