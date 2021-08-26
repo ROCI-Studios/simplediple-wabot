@@ -2,8 +2,13 @@
 
 Simple WhatsApp Bot
 
-[![Our Website]](https://rocistudios.xyz)
+[Our Website](https://rocistudios.xyz)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ThisIsHai/simplediple-wabot/)
+
+##BIG HUG AND THANKS FOR:
+[XinzBot - Bot code from Xinz-Team](https://github.com/Xinz-Team/XinzBot)
+[whatsappBot - Bot code from JastinXyz](https://github.com/JastinXyz/whatsappBot)
+
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
