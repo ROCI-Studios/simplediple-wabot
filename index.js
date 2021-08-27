@@ -3,19 +3,8 @@ import { WAConnection } from '@adiwajshing/baileys'
 
 async function connectToWhatsApp () {
     const conn = new WAConnection() 
-    // called when WA sends chats
-    // this can take up to a few minutes if you have thousands of chats!
-    conn.on('chats-received', async ({ hasNewChats }) => {
-        console.log(`you have ${conn.chats.length} chats, new chats available: ${hasNewChats}`)
 
-        const unread = await conn.loadAllUnreadMessages ()
-        console.log ("you have " + unread.length + " unread messages")
-    })
-    // called when WA sends chats
-    // this can take up to a few minutes if you have thousands of contacts!
-    conn.on('contacts-received', () => {
-        console.log('you have ' + Object.keys(conn.contacts).length + ' contacts')
-    })
+    console.log("Hello there! You running code simplediple-wabot from ThisIsHai. Wait a few minutes for the bot its ready to launch...") 
 
     await conn.connect ()
     conn.on('chat-update', chatUpdate => {
