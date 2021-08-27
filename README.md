@@ -16,7 +16,7 @@ Simple WhatsApp Bot
 1. Download this code.
 2. Put in the **main root** of windows/VPS.
 3. Run the code with command **npm start** on console/command promp.
-4. Scan the QR code in whatsapp. Don't know how to scan a QR code? [Click me!](https://faq.whatsapp.com/iphone/contacts/how-to-scan-a-whatsapp-qr-code/?lang=en)
+4. Scan the QR code in whatsapp. Don't know how to scan a QR code? [Click me!](https://faq.whatsapp.com/web/download-and-installation/how-to-log-in-or-out)
 
 ---------
 
