@@ -20,15 +20,10 @@ Simple WhatsApp Bot
 
 ---------
 
-```bash
-ubuntu
-curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
-apt install -y nodejs gcc g++ make
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
-npm install
-npm update
-```
+# How to edit the bot?
+
+1. To directory: **simplediple-wabot/commands/MODIFY HERE!/config.json**
+2. Make sense the modify its not changed the JSON file array. How do you make sure the layout stays the same? Look at the files: **simplediple-wabot/commands/MODIFY HERE!/array-config.json**
 
 ---------
 
