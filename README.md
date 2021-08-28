@@ -60,4 +60,10 @@ Removed:
 
 ---------
 
-GOOD LUCK!
+# Licence
+
+The license we use is MIT on behalf of ROCI Studios. What is MIT? [Click me!](https://id.m.wikipedia.org/wiki/Lisensi_MIT)
+
+---------
+
+# Thanks for using my code!
