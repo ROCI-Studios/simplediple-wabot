@@ -45,9 +45,10 @@ Removed:
 # How to install?
 
 1. Download this code.
-2. Put in the **main root** of windows/VPS.
-3. Run the code with command **npm start** on console/command promp.
-4. Scan the QR code in whatsapp. Don't know how to scan a QR code? [Click me!](https://faq.whatsapp.com/web/download-and-installation/how-to-log-in-or-out)
+2. Put in the **main root** of OS.
+3. Type **npm i**/**npm install** at the console/command prompt
+4. If all packages/processes **npm i** have finished downloading, run the code with command **npm start** on console/command promp.
+5. Scan the QR code in whatsapp. Don't know how to scan a QR code? [Click me!](https://faq.whatsapp.com/web/download-and-installation/how-to-log-in-or-out)
 
 ---------
 
@@ -64,5 +65,4 @@ The license we use is MIT on behalf of ROCI Studios. What is MIT? [Click me!](ht
 
 ---------
 
-*T
 **Thanks for using my code!**
