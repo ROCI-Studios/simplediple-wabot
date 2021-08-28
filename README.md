@@ -24,6 +24,14 @@ Removed:
 
 ---------
 
+# Supported OS:
+| Work/No |  OS  |
+| :-------: | :--: |
+| ✅ |  Send Photo with Caption  |
+
+
+---------
+
 # BIG HUG AND THANKS FOR:
 [Baileys - NPM for whatsapp bot](https://github.com/adiwajshing/Baileys)
 
