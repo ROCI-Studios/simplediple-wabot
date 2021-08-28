@@ -48,7 +48,8 @@ Removed:
 2. Put in the **main root** of OS.
 3. Type **npm i**/**npm install** at the console/command prompt
 4. If all packages/processes **npm i** have finished downloading, run the code with command **npm start** on console/command promp.
-5. Scan the QR code in whatsapp. Don't know how to scan a QR code? [Click me!](https://faq.whatsapp.com/web/download-and-installation/how-to-log-in-or-out)
+5. Scan the QR code which is in the console/command prompt to WhatsApp. Don't know how to scan a QR code? [Click me!](https://faq.whatsapp.com/web/download-and-installation/how-to-log-in-or-out)
+
 
 ---------
 
