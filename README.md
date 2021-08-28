@@ -29,18 +29,16 @@ Removed:
 | :-------: | :--: |
 | ☑️ |  Windows  |
 | (Not confirmed) |  Linux  |
-| ☑️ |  VPS/RDP (Virtual Private Server/Remote Control Protocol)  |
+| ☑️ |  VPS/RDP  |
 | (Not confirmed) |  MacOS  |
 | ❎ |  Linux Ptereodactyl  |
 
 ---------
 
 # BIG HUG AND THANKS FOR:
-[Baileys - NPM for whatsapp bot](https://github.com/adiwajshing/Baileys)
+[whatsapp-bot](https://github.com/Zhycorp/whatsapp-bot)
 
-[XinzBot - Bot code from Xinz-Team](https://github.com/Xinz-Team/XinzBot)
-
-[whatsappBot - Bot code from JastinXyz](https://github.com/JastinXyz/whatsappBot)
+[whatsappBot](https://github.com/JastinXyz/whatsappBot)
 
 ---------
 
@@ -56,7 +54,7 @@ Removed:
 # How to edit the bot?
 
 1. To directory: **simplediple-wabot/commands/MODIFY HERE!/config.json**
-2. Make sense the modify its not changed the JSON file array. How do you make sure the layout stays the same? Look at the files: **simplediple-wabot/commands/MODIFY HERE!/array-config.json**
+2. Make sense the modify its not changed the JSON file array. How do you make sure the layout stays the same? Look at the files: **simplediple-wabot/commands/MODIFY HERE!/example-config.json**
 
 ---------
 
@@ -66,4 +64,5 @@ The license we use is MIT on behalf of ROCI Studios. What is MIT? [Click me!](ht
 
 ---------
 
-# Thanks for using my code!
+*T
+**Thanks for using my code!**
