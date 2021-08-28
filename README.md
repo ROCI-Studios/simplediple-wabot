@@ -27,8 +27,11 @@ Removed:
 # Supported OS:
 | Work/No |  OS  |
 | :-------: | :--: |
-| ✅ |  Send Photo with Caption  |
-
+| ☑️ |  Windows  |
+| (Not confirmed) |  Linux  |
+| ☑️ |  VPS/RDP (Virtual Private Server/Remote Control Protocol)  |
+| (Not confirmed) |  MacOS  |
+| ❎ |  Linux Ptereodactyl  |
 
 ---------
 
