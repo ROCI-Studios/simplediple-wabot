@@ -10,10 +10,15 @@
 
 New version: **0.10.1**
 
-**What's new?**
-
 ```bash
+The new one:
 - Launching the code
+
+Update:
+-
+
+Removed:
+-
 
 ```
 
