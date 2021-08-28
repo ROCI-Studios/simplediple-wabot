@@ -1,10 +1,23 @@
 # simplediple-wabot
 
-Simple WhatsApp Bot From ThisIsHai
-
 [Our Website](https://rocistudios.xyz)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ThisIsHai/simplediple-wabot/)
+
+---------
+
+# Change log
+
+New version: **0.10.1**
+
+**What's new?**
+
+```bash
+- Launching the code
+
+```
+
+---------
 
 # BIG HUG AND THANKS FOR:
 [Baileys - NPM for whatsapp bot](https://github.com/adiwajshing/Baileys)
