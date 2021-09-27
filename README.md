@@ -1,3 +1,13 @@
+# BETA WARNING!
+
+This code is beta, if you get some error pls put the error on [Issue](https://github.com/ROCIStudios/simplediple-wabot/issue).
+
+# BANNED WARNING!
+
+If your number is banned from WhatsApp for using our code, it's completely not our responsibility
+
+---------
+
 # simplediple-wabot
 
 [Our Website](https://rocistudios.xyz)
