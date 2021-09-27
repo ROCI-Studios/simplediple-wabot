@@ -28,29 +28,31 @@ Removed:
 | Work/No |  OS  |
 | :-------: | :--: |
 | ☑️ |  Windows  |
-| (Not confirmed) |  Linux  |
+| ☑️ |  Linux  |
 | ☑️ |  VPS/RDP  |
 | (Not confirmed) |  MacOS  |
-| ❎ |  Linux Ptereodactyl  |
+| ☑️ |  Linux Ptereodactyl  |
 
 ---------
 
 # BIG HUG AND THANKS FOR:
-[whatsapp-bot](https://github.com/Zhycorp/whatsapp-bot)
 
-[whatsappBot](https://github.com/JastinXyz/whatsappBot)
+[wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+
+[whatsapp-bot](https://github.com/Zhycorp/whatsapp-bot)
 
 ---------
 
 # How to install?
 
 1. Download this code.
-2. Put in the **main root** of OS.
-3. Type **npm i**/**npm install** at the console/command prompt
-4. If all packages/processes **npm i** have finished downloading, run the code with command **npm start** on console/command promp.
-5. Scan the QR code which is in the console/command prompt to WhatsApp. Don't know how to scan a QR code? [Click me!](https://faq.whatsapp.com/web/download-and-installation/how-to-log-in-or-out)
-6. Wait until the console/command prompt displays the words "Hello there, your bot is now ready!"
-7. *Voila*, your WhatsApp bot is running successfully!
+2. Install bash in you OS/PC
+3. Put in the **main root** of OS.
+4. Type **npm i**/**npm install** at the console/command prompt
+5. If all packages/processes **npm i** have finished downloading, run the code with command **npm start** on console/command promp.
+6. Scan the QR code which is in the console/command prompt to WhatsApp. Don't know how to scan a QR code? [Click me!](https://faq.whatsapp.com/web/download-and-installation/how-to-log-in-or-out)
+7. Wait until the console/command prompt displays the words "Hello there, your bot is now ready!"
+8. *Voila*, your WhatsApp bot is running successfully!
 
 ---------
 
