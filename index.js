@@ -1,21 +1,2 @@
-// Baileys summoner (IDK whats is name, but i called summoner)
-import { WAConnection } from '@adiwajshing/baileys'
-
-async function connectToWhatsApp () {
-    const conn = new WAConnection() 
-
-    console.log("Hello there! You running code simplediple-wabot from ThisIsHai. Wait a few minutes for the bot its ready to launch...") 
-
-    await conn.connect ()
-    conn.on('chat-update', chatUpdate => {
-        // `chatUpdate` is a partial object, containing the updated properties of the chat
-        // received a new message
-        if (chatUpdate.messages && chatUpdate.count) {
-            const message = chatUpdate.messages.all()[0]
-            console.log (message)
-        } else console.log (chatUpdate) // see updates (can be archived, pinned etc.)
-    })
-}
-// run in main file
-connectToWhatsApp ()
-.catch (err => console.log("unexpected error: " + err) ) // catch any errors
+const _0x1d24fb=_0x8fb1;function _0x56df(){const _0x4e694d=['60BWveRc','Welcome\x20back!\x20Mosu\x20Code\x20Has\x20Been\x20Run','@open-wa/wa-automate','sendText','2RedVmO','1404741fwKkOk','id-id','prefix','873dHiEfX','535193RZPJGx','onMessage','6VTgwHc','./menu.json','body','304340ybkNeO','1975056xgNHzK','100120KDNHPP','readFileSync','418462BcexIB','3920861VBJgjt'];_0x56df=function(){return _0x4e694d;};return _0x56df();}(function(_0x4f1fd9,_0x353f72){const _0x2744fc=_0x8fb1,_0x4ebac2=_0x4f1fd9();while(!![]){try{const _0x565b55=parseInt(_0x2744fc(0x106))/0x1+-parseInt(_0x2744fc(0x101))/0x2*(-parseInt(_0x2744fc(0x102))/0x3)+-parseInt(_0x2744fc(0xf7))/0x4*(-parseInt(_0x2744fc(0xfd))/0x5)+parseInt(_0x2744fc(0x108))/0x6*(-parseInt(_0x2744fc(0xfc))/0x7)+parseInt(_0x2744fc(0xf8))/0x8+-parseInt(_0x2744fc(0x105))/0x9*(parseInt(_0x2744fc(0xf9))/0xa)+parseInt(_0x2744fc(0xfb))/0xb;if(_0x565b55===_0x353f72)break;else _0x4ebac2['push'](_0x4ebac2['shift']());}catch(_0x254a6e){_0x4ebac2['push'](_0x4ebac2['shift']());}}}(_0x56df,0xa3991));const wa=require(_0x1d24fb(0xff)),fs=require('fs'),menu=fs['readFileSync'](_0x1d24fb(0x109)),config=fs[_0x1d24fb(0xfa)]('./config.json'),menuMSG=JSON['parse'](menu),conf=JSON['parse'](config),prefix=conf[_0x1d24fb(0x104)];wa['create']({'sessionId':'mosuSession','authTimeout':0x3c,'blockCrashLogs':!![],'disableSpins':!![],'headless':!![],'hostNotificationLang':_0x1d24fb(0x103),'logConsole':![],'popup':!![],'qrTimeout':0x0})['then'](_0x7365d7=>start(_0x7365d7));function _0x8fb1(_0x4ec44f,_0x550dab){const _0x56df06=_0x56df();return _0x8fb1=function(_0x8fb1a5,_0x49d537){_0x8fb1a5=_0x8fb1a5-0xf6;let _0x198bf2=_0x56df06[_0x8fb1a5];return _0x198bf2;},_0x8fb1(_0x4ec44f,_0x550dab);}function start(_0x531200){const _0xaf5ed7=_0x1d24fb;console['log'](_0xaf5ed7(0xfe)),_0x531200[_0xaf5ed7(0x107)](async _0x5f01b0=>{const _0x43ffef=_0xaf5ed7;_0x5f01b0[_0x43ffef(0xf6)]===prefix+'help'&&await _0x531200[_0x43ffef(0x100)](_0x5f01b0['from'],menuMSG['message']);});}
+// if you want un-encryption code, chat me on WhatsApp. WhatsApp number: +380 94 657 3920
