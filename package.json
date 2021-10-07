@@ -1,7 +1,7 @@
 {
-  "name": "mosuBot-fullVersion",
+  "name": "mosuBot-encryptionVersion",
   "version": "0.0.1",
-  "description": "Full Code Of Mosu Bot",
+  "description": "Encryption Code Of Mosu Bot",
   "main": "index.js",
   "scripts": {
     "lint": "eslint . --ignore-path .gitignore",
