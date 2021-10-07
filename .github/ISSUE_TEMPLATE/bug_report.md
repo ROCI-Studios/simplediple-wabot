@@ -7,10 +7,11 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**What the bug?**
+Change this word to tell us the bug
 
-I Use Version '...' 
+**Whats you code version?**
+ 
 
 **Additional context**
 Add any other context about the problem here.
